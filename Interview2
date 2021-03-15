@@ -1,0 +1,46 @@
+Mindtree
+
+Current project- starting with customer segmentation(retail) and shifted to Databricks EY solution.
+Throughout GSTR1..
+Any challenges- GSTR1 business case challenge. 
+Second highest salary, department wise- done
+in a text file find palindrome- make a list and apply loop
+Yarn-Spark Architecture with end to end job journey- done
+Hive query optimization- talked about join.. couldn't explain
+hive partition- done
+broadcast variable- talked about table moved to executor and persisted
+hive programs to Spark programs- migration and development
+mount s3 to EMR- not done
+hive operation - hive one partition to another
+
+Capgemini
+
+1. Variables and XCOM in Airflow
+2. Branch in Task
+3. Integration testing of Spark Jobs
+4. Hive running on which cluster 
+5. Operators used in Airflow
+6. Limitations of Bash Operator in Airflow
+
+Freecharge
+1. emp, max(salary) department
+2. index having sum on left an right is equal
+3. 1 executor, monthly tbs--> how to use manual optimization
+4. groupby and reduced by
+5. char count with pyspark
+6. parquet and orc difference 
+7. skew join
+8.  dag behind the scene
+9. dist key, sort key 
+10. memory optimization
+
+Reddoorz
+Harveen Kaur| RedDoorz
+AVP - Human Resource and General Admin.
+harveen.kaur@reddoorz.com 
++91-9999808398
+
+1. palindrome python
+2. history load via sqoop in project
+3. lambda function in python
+4. file comparisions
